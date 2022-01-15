@@ -10,7 +10,7 @@ The software uses a cordinated map of equations to generate a pool of solutions 
 a size of 1000 solutions and then runs a fitness algorithm to evolve the most optimized
 solution untill a stretch of 14 generations.
 
-The Fitness Algorithm:-
+**The Fitness Algorithm:-**
     It follows the structure of Genetic Algorithm, where new solutions are built from older 
     ones using genetic reproduction and tested for fitness as per a well defined fitness function.
     This process is repeated till we reach a saturation level having the most fittest solution.
